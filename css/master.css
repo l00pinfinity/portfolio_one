@@ -37,7 +37,7 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-  color: #04B404;
+  color: #088A08;
 }
 
 .info{
@@ -70,6 +70,10 @@ span{
   border-radius: 5px;
 }
 
+.info a:hover{
+  color: #088A08;
+}
+
 .info-1{
   width: 45%;
   height: 80%;
@@ -97,7 +101,7 @@ transition: bottom 1s, left 1s;
 
 .social-links{
   margin-left: 8%;
-  margin-top: 100px;
+  position: fixed;
 }
 
 .social-link a{
@@ -107,5 +111,5 @@ transition: bottom 1s, left 1s;
 }
 
 .social-link a:hover{
-  color: #04B404;
+  color: #FF0000;
 }
