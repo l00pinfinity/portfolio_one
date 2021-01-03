@@ -37,7 +37,7 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-  color: #ff4321;
+  color: #04B404;
 }
 
 .info{
@@ -52,7 +52,7 @@ nav ul li a:hover{
 }
 
 span{
-  color: #ff4321;
+  color: #0B610B;
 }
 
 .info p{
@@ -107,5 +107,5 @@ transition: bottom 1s, left 1s;
 }
 
 .social-link a:hover{
-  color: #ff4321;
+  color: #04B404;
 }
