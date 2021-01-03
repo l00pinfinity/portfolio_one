@@ -105,11 +105,26 @@ transition: bottom 1s, left 1s;
 }
 
 .social-link a{
-  font-size: 30px;
+  font-size: 40px;
   color: #606163;
   margin-right: 20px;
+
 }
 
 .social-link a:hover{
   color: #FF0000;
+}
+
+.footer{
+  text-align: center;
+  padding:1em;
+}
+
+.footer p{
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.footer p:hover{
+  color: #0B610B;
 }
